@@ -80,7 +80,7 @@ const ChatApp = () => {
               <img
                 className="w-50 h-50 "
                 src={image}
-                alt="Rounded avatar"
+                alt="Avater"
               />
             </div>
             <div>
