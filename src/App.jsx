@@ -51,7 +51,7 @@ function App() {
       </div>
       <ChatComponent />
       {/* <RegisterENS/> */}
-      <div>
+      {/* <div>
         <img
           className="w-10 h-10 rounded-full"
           src={image}
@@ -60,7 +60,7 @@ function App() {
       </div>
       <label className="form-label">Choose File</label>
       <input type="file" onChange={changeHandler} />
-      <button onClick={handleSubmission}>Submit</button>
+      <button onClick={handleSubmission}>Submit</button> */}
     </>
   );
 }
