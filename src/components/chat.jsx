@@ -78,7 +78,7 @@ const ChatApp = () => {
           <div className="mb-4 flex items-center justify-between">
             <div>
               <img
-                className="w-10 h-10 rounded-full"
+                className="w-50 h-50 "
                 src={image}
                 alt="Rounded avatar"
               />
